@@ -210,7 +210,7 @@ Blogs Section Ended
     top: 90px;
     left:53%;
     display:none;
-    padding:1.2rem 5rem;
+    padding:1.2rem 5rem !important; 
     border-radius: 15px;
     font-size: 1.1rem;
     background-color:var(--btn-bg-color);
