@@ -151,7 +151,7 @@ Blogs Section Started
     justify-content:center;
 }
 .blogs{ 
-    height:362px;
+    height:255px;
     width: 312px;
     background-color:white;
     border:2px solid var(--border-clr);
@@ -206,7 +206,20 @@ Blogs Section Started
 }
 
 
+.matchmaking{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top: 30px;
+}
 
+.match-description{
+    margin: 40px;
+    margin-left: 60px;
+}
+
+.match-description p{
+    color: gray;
+}
 /*========================
 Blogs Section Ended
 ==========================*/
@@ -241,10 +254,6 @@ Blogs Section Ended
 
 }
 
-.option-categories a:hover{
-    background: var(--btn-bg-color);
-    color:white;
-}
 /*========================
 Footer Section Started
 ==========================*/
@@ -297,10 +306,6 @@ Social Media Ended
 /*========================
 Footer Section Ended
 ==========================*/
-
-
-
-
 
 
 /*==========================================
